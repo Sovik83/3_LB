@@ -1,0 +1,17 @@
+C:\Users\sovik\source\repos\3LB\3LB\bin\Debug\net6.0-windows\3LB.exe
+C:\Users\sovik\source\repos\3LB\3LB\bin\Debug\net6.0-windows\3LB.deps.json
+C:\Users\sovik\source\repos\3LB\3LB\bin\Debug\net6.0-windows\3LB.runtimeconfig.json
+C:\Users\sovik\source\repos\3LB\3LB\bin\Debug\net6.0-windows\3LB.dll
+C:\Users\sovik\source\repos\3LB\3LB\bin\Debug\net6.0-windows\3LB.pdb
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\3LB.csproj.AssemblyReference.cache
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\_3LB.Form1.resources
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\3LB.csproj.GenerateResource.cache
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\3LB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\3LB.AssemblyInfoInputs.cache
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\3LB.AssemblyInfo.cs
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\3LB.csproj.CoreCompileInputs.cache
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\3LB.dll
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\refint\3LB.dll
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\3LB.pdb
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\3LB.genruntimeconfig.cache
+C:\Users\sovik\source\repos\3LB\3LB\obj\Debug\net6.0-windows\ref\3LB.dll
